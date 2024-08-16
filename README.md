@@ -1,6 +1,6 @@
-College_CS_Course_Notes
+Course_Notes
 
-This repo is where I organize and summarize the material I’ve learned from the Computer Science Bachelor's program at Korea National Open University. I’ve broken things down by semester to help with my own review and understanding. Feel free to check out how I’ve summarized the course content!
+This repo is where I organize and summarize the material I’ve learned from the Computer Science Bachelor's program at University. I’ve broken things down by semester to help with my own review and understanding. Feel free to check out how I’ve summarized the course content!
 
 
 # Hi, I'm Jenna! 👋
