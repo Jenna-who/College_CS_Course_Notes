@@ -1,6 +1,6 @@
-Course_Notes
+Course Notes
 
-This repo is where I organize and summarize the material I’ve learned from the Computer Science Bachelor's program at University. I’ve broken things down by semester to help with my own review and understanding. Feel free to check out how I’ve summarized the course content!
+Welcome to my repository where I organize and summarize the material from my Computer Science Bachelor's program at University. I've broken down the content by subject to aid in my review and understanding. Feel free to explore my summaries and see how I’ve distilled the course content!
 
 
 # Hi, I'm Jenna! 👋
